@@ -130,7 +130,7 @@ exit
 
 ## ➡️ Next Lab
 
-**[Lab 22-1c: Verify sudo access](./lab-22-1c-verify-sudo.md)**
+**[Lab 22-1c: Verify sudo access](https://github.com/kelvintechnical/Verify-Sudo-Access-Conadm)**
 
 ---
 
@@ -138,7 +138,7 @@ exit
 
 - ✅ [Lab 22-1a: Create conadm user](./lab-22-1a-create-conadm.md)
 - 👉 **Lab 22-1b: Grant sudo rights** ← you are here
-- [Lab 22-1c: Verify sudo access](./lab-22-1c-verify-sudo.md)
+- [Lab 22-1c: Verify sudo access](https://github.com/kelvintechnical/Verify-Sudo-Access-Conadm)
 - [Lab 22-1d: Inspect ubi9 with skopeo](./lab-22-1d-skopeo-inspect.md)
 - [Lab 22-1e: Pull ubi9 image](./lab-22-1e-podman-pull.md)
 - [Lab 22-1f: Launch container with port mapping](./lab-22-1f-launch-container.md)
